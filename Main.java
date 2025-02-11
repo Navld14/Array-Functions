@@ -1,4 +1,7 @@
 //Main.java
+//Name : Naveen Ladha 
+//PRN : 23070126078
+//Batch : 2023-2027
 import java.util.*;
 
 class Main {
